@@ -1,0 +1,14 @@
+C:\Users\baine\Desktop\repos\csharp27\SyntaxSugar\SyntaxSugarEx\SyntaxSugarEx\bin\Debug\netcoreapp3.1\SyntaxSugarEx.exe
+C:\Users\baine\Desktop\repos\csharp27\SyntaxSugar\SyntaxSugarEx\SyntaxSugarEx\bin\Debug\netcoreapp3.1\SyntaxSugarEx.deps.json
+C:\Users\baine\Desktop\repos\csharp27\SyntaxSugar\SyntaxSugarEx\SyntaxSugarEx\bin\Debug\netcoreapp3.1\SyntaxSugarEx.runtimeconfig.json
+C:\Users\baine\Desktop\repos\csharp27\SyntaxSugar\SyntaxSugarEx\SyntaxSugarEx\bin\Debug\netcoreapp3.1\SyntaxSugarEx.runtimeconfig.dev.json
+C:\Users\baine\Desktop\repos\csharp27\SyntaxSugar\SyntaxSugarEx\SyntaxSugarEx\bin\Debug\netcoreapp3.1\SyntaxSugarEx.dll
+C:\Users\baine\Desktop\repos\csharp27\SyntaxSugar\SyntaxSugarEx\SyntaxSugarEx\bin\Debug\netcoreapp3.1\SyntaxSugarEx.pdb
+C:\Users\baine\Desktop\repos\csharp27\SyntaxSugar\SyntaxSugarEx\SyntaxSugarEx\obj\Debug\netcoreapp3.1\SyntaxSugarEx.csproj.AssemblyReference.cache
+C:\Users\baine\Desktop\repos\csharp27\SyntaxSugar\SyntaxSugarEx\SyntaxSugarEx\obj\Debug\netcoreapp3.1\SyntaxSugarEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baine\Desktop\repos\csharp27\SyntaxSugar\SyntaxSugarEx\SyntaxSugarEx\obj\Debug\netcoreapp3.1\SyntaxSugarEx.AssemblyInfoInputs.cache
+C:\Users\baine\Desktop\repos\csharp27\SyntaxSugar\SyntaxSugarEx\SyntaxSugarEx\obj\Debug\netcoreapp3.1\SyntaxSugarEx.AssemblyInfo.cs
+C:\Users\baine\Desktop\repos\csharp27\SyntaxSugar\SyntaxSugarEx\SyntaxSugarEx\obj\Debug\netcoreapp3.1\SyntaxSugarEx.csproj.CoreCompileInputs.cache
+C:\Users\baine\Desktop\repos\csharp27\SyntaxSugar\SyntaxSugarEx\SyntaxSugarEx\obj\Debug\netcoreapp3.1\SyntaxSugarEx.dll
+C:\Users\baine\Desktop\repos\csharp27\SyntaxSugar\SyntaxSugarEx\SyntaxSugarEx\obj\Debug\netcoreapp3.1\SyntaxSugarEx.pdb
+C:\Users\baine\Desktop\repos\csharp27\SyntaxSugar\SyntaxSugarEx\SyntaxSugarEx\obj\Debug\netcoreapp3.1\SyntaxSugarEx.genruntimeconfig.cache
